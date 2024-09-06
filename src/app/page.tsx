@@ -48,7 +48,7 @@ export default function Home() {
       </Group>
 
       <Text ta="center" my="sm">
-        Copyright © 2024 Natwara Chaiyasit 660610758
+        Copyright © 2024 Dararat Buayim 660610759
       </Text>
     </Container>
   );
